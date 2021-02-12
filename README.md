@@ -1,4 +1,4 @@
-# imap-commandments
+# Ten Commandments of How to Write an IMAP client
 
 
 [I wrote this tongue-in-cheek, but there's a lot here that people who
